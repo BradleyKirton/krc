@@ -10,12 +10,13 @@ This Memorandum of Understanding (MOU) establishes a framework for collaboration
 
 ## 2. Mission Alignment
 
-The Collective's mission is to implement projects that make the Killarney and Riviera communities:
-- Safe
-- Clean
-- Beautiful
+The Collective's mission is to implement projects that make the Killarney and Riviera communities:  
 
-Humanatarium aid falls outside the scope of the Collective's objective.
+- Safe  
+- Clean  
+- Beautiful  
+
+Humanatarium aid and job creation falls outside the scope of the Collective's objective.
 
 ## 3. Scope of Collaboration
 
@@ -57,13 +58,13 @@ This MOU may be amended by mutual written agreement of both parties.
 For the Killarney and Riviera Community Improvement Collective:
 
 ___________________________
-Name: Bradley Stuart Kirton
-Position: Benevolent Dictator
+Name: Bradley Stuart Kirton  
+Position: Benevolent Dictator  
 Date: 2025-03-01
 
 For Champions of the Environment Foundation:
 
 ___________________________
-Name: Stella Victoria Helwick
-Position: Executive Director
+Name: Stella Victoria Helwick  
+Position: Executive Director  
 Date: 2025-03-01
