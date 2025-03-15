@@ -1,2 +1,2 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash	
 uv tool run --from markdown markdown_py mou.md > mou.html

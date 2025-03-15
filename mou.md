@@ -59,12 +59,12 @@ For the Killarney and Riviera Community Improvement Collective:
 
 ___________________________
 Name: Bradley Stuart Kirton  
-Position: Benevolent Dictator  
-Date: 2025-03-01
+Position: Project Coordinator
+Date: 2025-03-08
 
 For Champions of the Environment Foundation:
 
 ___________________________
 Name: Stella Victoria Helwick  
 Position: Executive Director  
-Date: 2025-03-01
+Date: 2025-03-08
